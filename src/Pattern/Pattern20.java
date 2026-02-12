@@ -15,7 +15,7 @@ public class Pattern20 {
                 } else if (i > n / 2 && (i == j || i + j == n + 1) ) {
                     System.out.print("*\t");
                 }else {
-                    System.out.print("\t");
+                    System.out.print("\tK");
                 }
             }
 
